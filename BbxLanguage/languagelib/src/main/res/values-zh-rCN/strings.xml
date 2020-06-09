@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">My Application</string>
+
+	<string name="setting_language_title">多语言设置</string>
+
+</resources>
